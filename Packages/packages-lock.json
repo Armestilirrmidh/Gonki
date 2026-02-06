@@ -12,9 +12,19 @@
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.unity.textmeshpro": "3.0.6"
+        "com.unity.textmeshpro": "3.0.6",
+        "com.unity.ai.navigation": "1.1.7"
       },
-      "hash": "bdddcd4239ac60bda33693978fcdff01bdca52fc"
+      "hash": "a47df1ee4656c3f682e9f54386d4507e9d364114"
+    },
+    "com.unity.ai.navigation": {
+      "version": "2.0.9",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
       "version": "3.1.5",
